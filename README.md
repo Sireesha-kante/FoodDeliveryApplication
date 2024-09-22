@@ -1,4 +1,4 @@
-# Food Hub - Food Delivery Application
+# The Food Hub - Food Delivery Application
 
 ## Overview
 
